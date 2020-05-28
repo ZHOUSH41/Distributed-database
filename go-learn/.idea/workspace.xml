@@ -11,15 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7352bc-73ea-4509-a2eb-3ef3867a75d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn-go-with-tests/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinysql" beforeDir="false" afterPath="$PROJECT_DIR$/../tinysql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -35,10 +42,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Learn-go-with-tests" />
   </component>
   <component name="RunManager">
     <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -78,25 +87,25 @@
       <screen x="67" y="27" width="1533" height="872" />
     </state>
     <state x="631" y="372" width="404" height="142" key="#GOROOT/67.27.1533.872@67.27.1533.872" timestamp="1590332484690" />
-    <state x="619" y="201" width="424" height="492" key="FileChooserDialogImpl" timestamp="1590332482687">
+    <state x="619" y="185" width="424" height="492" key="FileChooserDialogImpl" timestamp="1590633809879">
       <screen x="67" y="27" width="1533" height="872" />
     </state>
-    <state x="619" y="201" width="424" height="492" key="FileChooserDialogImpl/67.27.1533.872@67.27.1533.872" timestamp="1590332482687" />
-    <state width="1354" height="202" key="GridCell.Tab.0.bottom" timestamp="1590383473490">
+    <state x="619" y="185" width="424" height="492" key="FileChooserDialogImpl/67.27.1533.872@67.27.1533.872" timestamp="1590633809879" />
+    <state width="1354" height="202" key="GridCell.Tab.0.bottom" timestamp="1590383652205">
       <screen x="67" y="27" width="1533" height="872" />
     </state>
-    <state width="1354" height="202" key="GridCell.Tab.0.bottom/67.27.1533.872@67.27.1533.872" timestamp="1590383473490" />
-    <state width="1354" height="202" key="GridCell.Tab.0.center" timestamp="1590383473490">
+    <state width="1354" height="202" key="GridCell.Tab.0.bottom/67.27.1533.872@67.27.1533.872" timestamp="1590383652205" />
+    <state width="1354" height="202" key="GridCell.Tab.0.center" timestamp="1590383652205">
       <screen x="67" y="27" width="1533" height="872" />
     </state>
-    <state width="1354" height="202" key="GridCell.Tab.0.center/67.27.1533.872@67.27.1533.872" timestamp="1590383473490" />
-    <state width="1354" height="202" key="GridCell.Tab.0.left" timestamp="1590383473489">
+    <state width="1354" height="202" key="GridCell.Tab.0.center/67.27.1533.872@67.27.1533.872" timestamp="1590383652205" />
+    <state width="1354" height="202" key="GridCell.Tab.0.left" timestamp="1590383652204">
       <screen x="67" y="27" width="1533" height="872" />
     </state>
-    <state width="1354" height="202" key="GridCell.Tab.0.left/67.27.1533.872@67.27.1533.872" timestamp="1590383473489" />
-    <state width="1354" height="202" key="GridCell.Tab.0.right" timestamp="1590383473490">
+    <state width="1354" height="202" key="GridCell.Tab.0.left/67.27.1533.872@67.27.1533.872" timestamp="1590383652204" />
+    <state width="1354" height="202" key="GridCell.Tab.0.right" timestamp="1590383652205">
       <screen x="67" y="27" width="1533" height="872" />
     </state>
-    <state width="1354" height="202" key="GridCell.Tab.0.right/67.27.1533.872@67.27.1533.872" timestamp="1590383473490" />
+    <state width="1354" height="202" key="GridCell.Tab.0.right/67.27.1533.872@67.27.1533.872" timestamp="1590383652205" />
   </component>
 </project>
